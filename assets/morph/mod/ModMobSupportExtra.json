@@ -86,33 +86,52 @@
       "waterAllergy"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityDolphin": [
-      "swim|false",
+      "swim|false,1.2F,0.6F,true",
       "hostile"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityFishy": [
-      "swim|false"
+      "swim|false,1.1F,0.5F,true"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityJellyFish": [
-      "swim|false",
+      "swim|false,1F,0.2F,true",
       "hostile"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityMediumFish": [
-      "swim|false"
+      "swim|false,1.15F,0.4F,true"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityPiranha": [
-      "swim|false",
+      "swim|false,1.1F,0.4F,true",
       "hostile"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityRay": [
-      "swim|false",
+      "swim|false,1.1F,0.2F,true",
       "hostile"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityShark": [
-      "swim|false",
+      "swim|false,1.2F,0.6F,true",
       "hostile"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntitySmallFish": [
-      "swim|false"
+      "swim|false,1.15F,0.3F,true"
+    ],
+    "drzhark.mocreatures.entity.ambient.MoCEntityDragonfly": [
+      "fly|true"
+    ],
+    "drzhark.mocreatures.entity.ambient.MoCEntityFly": [
+      "fly|true"
+    ],
+    "drzhark.mocreatures.entity.ambient.MoCEntityButterfly": [
+      "fly|true"
+    ],
+    "drzhark.mocreatures.entity.passive.MoCEntityBird": [
+      "fly|true"
+    ],
+    "drzhark.mocreatures.entity.passive.MoCEntityWyvern": [
+      "fly|true",
+      "fireImmunity"
+    ],
+    "drzhark.mocreatures.entity.ambient.MoCEntityBee": [
+      "fly|true",
     ],
     "drzhark.mocreatures.entity.monster.MoCEntityFlameWraith": [
       "fly|false",
@@ -177,7 +196,7 @@
       "hostile"
     ],
     "thaumcraft.common.entities.golems.EntityGolemBase": [
-      "swim|true"
+      "swim|true,1F,1F,false"
     ],
     "thaumcraft.common.entities.monster.EntityBrainyZombie": [
       "sunburn",
