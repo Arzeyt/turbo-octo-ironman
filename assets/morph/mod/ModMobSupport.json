@@ -117,6 +117,27 @@
     "drzhark.mocreatures.entity.passive.MoCEntityBird": [
       "fly|true"
     ],
+    "drzhark.mocreatures.entity.passive.MoCEntityBee": [
+      "fly|true"
+    ],
+    "drzhark.mocreatures.entity.passive.MoCEntityButterfly": [
+      "fly|true"
+    ],
+    "drzhark.mocreatures.entity.passive.MoCEntityCricket": [
+      "fly|true"
+    ],
+    "drzhark.mocreatures.entity.passive.MoCEntityDragonfly": [
+      "fly|true"
+    ],
+    "drzhark.mocreatures.entity.passive.MoCEntityFly": [
+      "fly|true"
+    ],
+    "drzhark.mocreatures.entity.passive.MoCEntityFirefly": [
+      "fly|true"
+    ],
+    "drzhark.mocreatures.entity.MoCEntityWyvern": [
+      "fly|true"
+    ],
     "drzhark.mocreatures.entity.monster.MoCEntityFlameWraith": [
       "fly|false",
       "hostile",
