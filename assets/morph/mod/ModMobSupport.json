@@ -114,23 +114,23 @@
     "drzhark.mocreatures.entity.aquatic.MoCEntitySmallFish": [
       "swim|false,1.15F,0.3F,true"
     ],
-    "drzhark.mocreatures.entity.ambient.MoCentitydragonfly": [
+    "drzhark.mocreatures.entity.ambient.MoCEntityDragonfly": [
       "fly|true"
     ],
-	"drzhark.mocreatures.entity.ambient.MoCentityfly": [
+	"drzhark.mocreatures.entity.ambient.MoCEntityFly": [
       "fly|true"
     ],
-    "drzhark.mocreatures.entity.ambient.MoCentitybutterfly": [
+    "drzhark.mocreatures.entity.ambient.MoCEntityButterfly": [
       "fly|true"
     ],
-    "drzhark.mocreatures.entity.passive.MoCentitybird": [
+    "drzhark.mocreatures.entity.passive.MoCEntityBird": [
       "fly|true"
     ],
-    "drzhark.mocreatures.entity.passive.MoCentitywyvern": [
+    "drzhark.mocreatures.entity.passive.MoCEntityWyvern": [
       "fly|true",
       "fireImmunity"
     ],
-    "drzhark.mocreatures.entity.ambient.MoCentitybee": [
+    "drzhark.mocreatures.entity.ambient.MoCEntityBee": [
       "fly|true",
     ],
     "drzhark.mocreatures.entity.monster.MoCEntityFlameWraith": [
