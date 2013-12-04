@@ -86,33 +86,33 @@
       "waterAllergy"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityDolphin": [
-      "swim|false,1.8F,0.6F,true",
+      "swim|false,1.2F,0.6F,true",
       "hostile"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityFishy": [
-      "swim|false"
+      "swim|false,1.2F,0.6F,true"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityJellyFish": [
-      "swim|false",
+      "swim|false,1.0F,0.4F,true",
       "hostile"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityMediumFish": [
-      "swim|false"
+      "swim|false,1.2F,0.6F,true"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityPiranha": [
-      "swim|false",
+      "swim|false,1.2F,0.6F,true",
       "hostile"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityRay": [
-      "swim|false",
+      "swim|false,1.2F,0.6F,true",
       "hostile"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityShark": [
-      "swim|false",
+      "swim|false,1.2F,0.6F,true",
       "hostile"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntitySmallFish": [
-      "swim|false"
+      "swim|false,1.2F,0.6F,true"
     ],
     "drzhark.mocreatures.entity.passive.MoCEntityBird": [
       "fly|true"
