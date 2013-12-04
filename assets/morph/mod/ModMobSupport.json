@@ -114,6 +114,9 @@
     "drzhark.mocreatures.entity.aquatic.MoCEntitySmallFish": [
       "swim|false"
     ],
+    "drzhark.mocreatures.entity.passive.MoCEntityBird": [
+      "fly|true"
+    ],
     "drzhark.mocreatures.entity.monster.MoCEntityFlameWraith": [
       "fly|false",
       "hostile",
