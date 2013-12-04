@@ -86,7 +86,7 @@
       "waterAllergy"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityDolphin": [
-      "swim|false,1.1F,0.6F,true",
+      "swim|false,1.2F,0.6F,true",
       "hostile"
     ],
     "drzhark.mocreatures.entity.aquatic.MoCEntityFishy": [
